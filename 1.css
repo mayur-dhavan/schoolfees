@@ -1,0 +1,11 @@
+p{
+    color:red;
+}
+b{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-image:url(download1.png);
+    background-repeat: no-repeat;
+}
